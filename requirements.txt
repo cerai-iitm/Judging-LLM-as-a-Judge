@@ -1,0 +1,14 @@
+torch>=2.1
+transformers>=4.38.2
+accelerate
+huggingface_hub
+scikit-learn
+pandas>=2.0.3
+numpy>=1.25.2
+tqdm
+matplotlib
+seaborn
+rapidfuzz
+captum
+bertopic
+umap-learn
